@@ -1,5 +1,5 @@
 ## Bem-vindo 👋
-Sou desenvolvedor há back-end há 3 anos com java spring boot e typescript com nodejs, cursando Engenharia de software.
+Sou desenvolvedor back-end há 4 anos com java spring boot e typescript com nodejs, cursando Engenharia de software.
 
 ## Habilidades
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
