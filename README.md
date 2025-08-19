@@ -11,8 +11,8 @@ Sou desenvolvedor back-end há 4 anos com java spring boot e typescript com node
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavimar&layout=compact&theme=dark)
 
 ## Repositorios importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavimar&repo=worker-sqs-mensageria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavimar&repo=persistencia-projeto-final&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavimar&repo=worker-sqs-mensageria&theme=dark)](https://github.com/flavimar/worker-sqs-mensageria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavimar&repo=persistencia-projeto-final&theme=dark)](https://github.com/flavimar/persistencia-projeto-final)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavimar&repo=su-2023-2-tarefa-dinamica&theme=dark)](https://github.com/flavimar/su-2023-2-tarefa-dinamica)
 
